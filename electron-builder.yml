@@ -1,5 +1,5 @@
 appId: 'net.muspelheim.launcher'
-productName: 'Muspelheim-Launcher'
+productName: 'Muspelheim Launcher'
 artifactName: '${productName}-setup-${channel}_${version}-${os}_${arch}.${ext}'
 
 copyright: 'Copyright © 2025 Tyrthurey'
